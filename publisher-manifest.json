@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "711a859a1eb8a3b91e09d77d",
+  "owner": "c7emb7unx",
+  "repo": "c7emb7unx.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "e5817d1d8210b89e825668c0",
+      "a": "Catnet",
+      "b": "官方发布页",
+      "entity": "Catnet",
+      "brand": "Catnet",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "eb6b6a6f45c3c890ec502d1e5780d9ac182de7a84b22bcf13ec2a5abeb9715ef",
+      "content": {
+        "primary_entity": "Catnet",
+        "keyword1": "Catnet",
+        "keyword2": "官方发布页",
+        "content": {
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，便于不同规模的个人与团队按需选用。",
+          "AI_HERO_SUBTITLE": "多设备场景下的加速选择",
+          "AI_HERO_INTRO": "Catnet 提供基础版、旗舰版与团队版三档方案，覆盖从个人到团队的设备数量与流量需求差异。用户可结合在线设备数、流媒体与游戏加速需要，以及月付或年付周期，挑选适配的订阅方案。",
+          "AI_VISUAL_TITLE": "Catnet 套餐与客户端配置",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数区分",
+          "AI_HIGHLIGHT_2": "年付方式降低长期成本",
+          "AI_HIGHLIGHT_3": "按客户端文档完成订阅",
+          "AI_FEATURES_TITLE": "功能与选择",
+          "AI_FEATURES_INTRO": "从设备数量、流量规模和线路特点三个方向评估套餐适配度。",
+          "AI_FEATURE_TITLE_1": "按设备数匹配套餐",
+          "AI_FEATURE_TEXT_1": "基础版适合少量设备，旗舰版与团队版面向多设备并发的场景，选择前先统计常用设备数量。",
+          "AI_FEATURE_TITLE_2": "按流量规划订阅周期",
+          "AI_FEATURE_TEXT_2": "每月流量需求较稳定时，年付方案通常更省成本；流量波动较大时，可先按月付费观察使用情况。",
+          "AI_FEATURE_TITLE_3": "线路差异对应不同场景",
+          "AI_FEATURE_TEXT_3": "普通线路满足日常浏览，专线节点更侧重游戏与实时应用，流媒体解锁范围也随套餐变化。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "套餐在流量、设备数与线路类型上逐级提升，可按团队规模和使用强度横向比较。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "依据使用设备选择对应客户端：Windows 与 macOS 可用桌面程序，Android 与 iOS 使用移动端应用，路由器场景参考固件文档手动配置。不同客户端对订阅格式的支持存在差异，导入前先查看该客户端的说明。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "从选定套餐到设备适配确认，再到客户端订阅导入，三步完成配置。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "确认设备适配",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版与团队版中选定一档，可优先按月付体验。",
+          "AI_STEP_TEXT_2": "核对目标设备的系统版本与客户端支持情况，确认在线设备数不超过套餐上限，必要时升级。",
+          "AI_STEP_TEXT_3": "在对应客户端中按文档指引粘贴或扫码导入订阅信息，保存后测试节点连接与访问速度。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Catnet 的订阅怎样导入客户端？",
+          "AI_FAQ_ANSWER_1": "在客户端内找到订阅或配置文件入口，将获取的订阅信息粘贴或扫码导入，保存后即可看到节点列表。不同客户端的入口位置不同，按该客户端文档操作即可。",
+          "AI_FAQ_QUESTION_2": "一个套餐能同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "套餐按在线设备数区分：基础版适合少量设备，旗舰版面向更多设备并发，团队版支持较大规模的设备同时在线。超出上限时部分设备可能无法连接，可升级或减少同时在线设备。",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选更合适？",
+          "AI_FAQ_ANSWER_3": "使用需求明确且长期稳定时，年付方式通常更节省整体成本。若还在比较线路质量和设备适配，建议先按月付，使用一段时间后再转为年付。",
+          "AI_FAQ_QUESTION_4": "旗舰版和基础版的主要区别是什么？",
+          "AI_FAQ_ANSWER_4": "旗舰版在流量额度、在线设备数、流媒体解锁范围和线路类型上均优于基础版，还提供游戏加速优化与优先工单支持。日常轻度使用可选基础版，多场景使用更适合旗舰版。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么样的使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版面向多设备、高流量的使用环境，支持较多设备同时在线和专属高带宽节点，并可定制路由方案，适合小型团队或工作室统一配置与管理。",
+          "AI_CLOSING_TITLE": "按需选择套餐",
+          "AI_CLOSING_TEXT": "结合设备数量与流量需求选定套餐，再按客户端文档完成订阅配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "70c8afb1917420f1b4ca9ddcdc683145bc884c735cfb917d015c34c85095fc74",
+    "sitemap.xml": "d04214f6ac2fe7f632e7a0b3fb7e562945ca423f5f2044437341344482c1c979",
+    "robots.txt": "41864123859b47b75aa3e6351b65ba5a6df951564fc28d2a70c34e47a30dc1af",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "af83f931f673d7f96cc3c1f67dd6daf6aacca1dff9ac228b851b723066c98d66"
+}

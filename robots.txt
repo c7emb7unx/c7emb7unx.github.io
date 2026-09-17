@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c7emb7unx.github.io/sitemap.xml
